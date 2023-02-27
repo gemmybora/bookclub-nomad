@@ -1,2 +1,0 @@
-# bookclub-nomad
-IT dictionary
